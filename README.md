@@ -11,6 +11,8 @@ Planned functionality:
 * big amount of filter functions for easier data printing (some implemented as of now)
 
 This project isn't by any means intended to be ORM replacement*, but should make some things easier, faster and little bit more safe to do. As of now it has partially implemented SELECT clause support with some filter functions included (for example timestamp to date conversion).  
-As of now, it have some dependencies on the boost C++ library and in the future it will use it's features even more.  
+As of now, it have some dependencies on the boost C++ library and in the future it will use it's features even more. 
+
+**IMPORTANT:** As of now, project isn't maintained, because of lack of my free time. As soon as I'd have some more of it, I'll try to add more functionality. Still, fell free to use it if you wish.  
   
 \* But with usage of few containers and some type conversion could make sth like "ORM for the poorest" ;)
